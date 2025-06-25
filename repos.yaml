@@ -1,0 +1,15 @@
+repositories:
+- companieshouse/efs-document-processor
+- companieshouse/efs-submission-api
+- companieshouse/efs-submission-web
+- companieshouse/officer-filing-api
+- companieshouse/officer-filing-web
+- companieshouse/psc-extensions-api
+- companieshouse/psc-extensions-web
+- companieshouse/psc-filing-api
+- companieshouse/psc-verification-api
+- companieshouse/psc-verification-web
+- companieshouse/secure-application-api
+- companieshouse/secure-application-consumer
+- companieshouse/secure-application-web
+- companieshouse/secure-data-app
