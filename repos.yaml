@@ -4,6 +4,7 @@ repositories:
 - companieshouse/efs-submission-web
 - companieshouse/officer-filing-api
 - companieshouse/officer-filing-web
+- companieshouse/psc-data-api
 - companieshouse/psc-extensions-api
 - companieshouse/psc-extensions-web
 - companieshouse/psc-filing-api
